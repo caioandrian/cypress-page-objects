@@ -1,7 +1,8 @@
 {
-  "name": "casanovatemplatefront",
+  "name": "cypress-page-objects",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test",
+  "author": "Caio Andrian",
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
@@ -18,8 +19,12 @@
       "outputFolder": "cypress/reports/json"
     }
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cypress",
+    "page object",
+    "cucumber",
+    "tests"
+  ],
   "license": "ISC",
   "devDependencies": {
     "cy-verify-downloads": "^0.1.8",
