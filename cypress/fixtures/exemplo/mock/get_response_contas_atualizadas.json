@@ -1,0 +1,5 @@
+[
+    {"conta_id": 1, "nome":"Carteira", "visivel": true, "usuario_id": 1},
+    {"conta_id": 2, "nome":"Banco", "visivel": true, "usuario_id": 1},
+    {"conta_id": 3, "nome":"Conta de Teste", "visivel": true, "usuario_id": 1}
+]
